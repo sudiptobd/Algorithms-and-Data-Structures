@@ -1,1 +1,1 @@
-# Algorithms-and-Data-Structures-C-
+# Algorithms and Data Structures for everyday practices
