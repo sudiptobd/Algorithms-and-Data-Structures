@@ -34,7 +34,7 @@ vector<int> pathFinder(int next[][100],int a,int b){
 
 int main()
 {
-    freopen("C:\\Users\\User\\Documents\\Algo\\Practice\\in.txt","r",stdin);
+    freopen("in.txt","r",stdin);
     int n,e;
     cin >> n >> e;
     int matrix[100][100];
